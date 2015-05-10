@@ -1,0 +1,3 @@
+This program will follow links with the a tag that use the href attribute. If
+the file already exists it will not be redownloaded unless it is a webpage. This
+is so that newly updated links can be followed.
